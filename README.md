@@ -56,6 +56,8 @@
         </tr>
     </table>
     </main>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2048px-Steam_icon_logo.svg.png" width="50px" height="50px"/>
+    <a style="color:white" href="https://store.steampowered.com/app/374320/DARK_SOULS_III/">Dark Souls III in steam</a>
         </div>
     </body>
 </html>    
