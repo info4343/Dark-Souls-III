@@ -2,7 +2,7 @@
     <body>
         <div style="background-image: url('https://img.goodfon.ru/original/1920x1080/2/1d/dark-souls-3-the-ridgen-city-dark-souls-iii.jpg');background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;">
     <title>Dark Souls III</title>
-    <h1>Dark Souls III</h1>
+    <h1 style="color:white">Dark Souls III</h1>
     <main style="background-color:lightgray;opacity:0.8;">
     <p style="font-size:20px"><b>Dark Souls III</b> - відеогра, розроблена компанією FromSoftware.</p>
     <p style="font-size:35px">Ігровий процес</p>
