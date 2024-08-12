@@ -1,6 +1,6 @@
 <html>
     <body>
-        <div style="background-image: url('https://img.goodfon.ru/original/1920x1080/2/1d/dark-souls-3-the-ridgen-city-dark-souls-iii.jpg');background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%;">
+        <div style="background-image: url('https://img.goodfon.ru/original/1920x1080/2/1d/dark-souls-3-the-ridgen-city-dark-souls-iii.jpg');background-repeat: no-repeat;background-attachment: fixed;background-size: 100% 100%; width="1920px" height="1080px"/>
     <title>Dark Souls III</title>
     <h1 style="color:white">Dark Souls III</h1>
     <main style="background-color:lightgray;opacity:0.8;">
