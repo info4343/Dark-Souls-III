@@ -7,6 +7,9 @@
     <p style="font-size:20px"><b>Dark Souls III</b> - відеогра, розроблена компанією FromSoftware.</p>
     <p style="font-size:35px">Ігровий процес</p>
     <p style="font-size:20px">Так само як і її попередники в серії — перша та друга частини, гра виконана в жанрі Action RPG у сеттингу середньовіччя та темного фентезі. Світ розбитий на кілька десятків підземель, замків та інших лабіринтів , наповнених різноманітними небезпечними монстрами та босами . Тут вам доведеться прокачати свого персонажа, знайти нову зброю, броню та магію.</p>
+         </main>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/SJnKGodp8sY?si=6Jgc6c_LrXJtE7LQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     <main style="background-color:lightgray;opacity:0.8;">
 
     <p style="font-size:20px">Однією із ключових механік є смерть персонажа. Оскільки тут немає опцій створення збережень, при смерті Ви будете переміщені до останнього чекпоїнту , частина вбитих ворогів воскресне і виникне ризик втрати невикористаного досвіду .</p>
 
